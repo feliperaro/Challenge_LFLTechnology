@@ -1,6 +1,12 @@
 # Challenge_LFLTechnology
 App desenvolvido em React Native para a entrega da Challenge FIAP 2TDSR
 
+Proposta: 
+Escolher uma das funcionalidades que o aplicativo possui e implementar um CRUD completo usando:  
+Componentes Funcionais;
+React-Navigation (Stack Navigation);
+AsyncStorage.
+
 Nome do Grupo: 
 LFL Technology 
 
