@@ -10,7 +10,7 @@ Lucas Kazuo Sakata - RM: 81223
 Lucas Padovani - RM: 80203 
 Luis Felipe dos Santos Robbo - RM: 82762
 
-Usuário administradores do app:
+Usuários administradores do app:
 rm86373
 rm81223 
 rm80203 
